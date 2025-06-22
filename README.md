@@ -1,4 +1,4 @@
-Here’s a complete `README.md` tailored for a **Gemini AI Clone** built with **React** and using **Google's Gemini API** via **Google AI SDK** (Contextual AI integration). This README assumes you're using Context API for state management in React and integrating Gemini via REST or Google’s SDK.
+Here’s a complete `README.md` for a **Gemini AI Clone** built with **React** and using **Google's Gemini API** via **Google AI SDK** (Contextual AI integration). This README assumes you're using Context API for state management in React and integrating Gemini via REST or Google’s SDK.
 
 # 🌌 Gemini AI Clone (React + Gemini API)
 
